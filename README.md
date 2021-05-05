@@ -1,7 +1,10 @@
 ## Aim of the test 
 
-The aim of this test is to run the user journey navigation through the portal pages. Search for a restaurant and  
-select a box meal. Add to the menu to the basket and verify the check out page.
+The aim of this test is to run the user journey from home page to checkout page. 
+- Search for a restaurant   
+- Select a box meal 
+- Add to the menu to the basket  
+- Verify the check out page
 
 ## Technical Information
 
@@ -18,7 +21,7 @@ used to develop this test framework.
 - Browser chrome or 
 - Search Term are configured in the configuration files which gives flexibility to update the parameters easily.
 
-##How to Run
+## How to Run
 
-Install the dependencies by executing the command `mvn clean install`
-And run  tests in your favourite editor
+- Install the dependencies by executing the command `mvn clean install`
+- Run  tests in your favourite editor
