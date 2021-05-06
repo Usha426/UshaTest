@@ -25,3 +25,5 @@ used to develop this test framework.
 
 - Install the dependencies by executing the command `mvn clean install`
 - Run  tests in your favourite editor
+## Reports
+![Screenshot 2021-05-06 at 10 18 02](https://user-images.githubusercontent.com/7458205/117273860-69c5f900-ae54-11eb-922e-536e127ab66e.png)
